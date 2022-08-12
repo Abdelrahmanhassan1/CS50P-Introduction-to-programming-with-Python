@@ -16,6 +16,8 @@
 
 ## Demo:
 
+<a href="https://www.youtube.com/watch?v=9S6gvhdkJns">Note Keeper</a>
+
 ## Explanation:
 
 <p>For the search method it doesn't matter if the snippet is lower case or upper case or mix, it will just search for all matches regardless the case of the letter</p>
