@@ -14,9 +14,13 @@
 
 <p>This window appears continuosly till the user quit the program</p>
 
+<hr>
+
 ## Demo:
 
 <a href="https://www.youtube.com/watch?v=9S6gvhdkJns">Note Keeper</a>
+
+<hr>
 
 ## Explanation:
 
@@ -31,3 +35,29 @@
 <p>Colored module is used so the user methods he can choose has different colors as in delete option it gives red color which might be as a warning like hey you are going to delete a note be careful!</p>
 
 <p>Tabulate Python Module is used to show the notes of the user in table view.</p>
+
+<hr>
+
+## Screenshots:
+
+> showing some stored notes and adding new notes
+
+<img src="./assets/screen1.png" width="1000px" >
+
+> Deleting specific note and program reorders the notes
+
+<img src="./assets/screen2.png" width="800px" >
+
+> Searching for a specific word in notes
+
+<img src="./assets/screen3.png" width="800px" >
+
+<hr>
+
+## challenges:
+
+<ol>
+<li><p style="font-size:1.2rem">How to keep the app storing old notes => using open method to store notes locally in a file</p></li>
+<li><p style="font-size:1.2rem">How to write new note without deleting or affecting the previous ones => using <strong>"a"</strong> option in the open file method</p></li>
+<li><p style="font-size:1.2rem">Reordering the notes' numbers after deleting any note.</p></li>
+</ol>

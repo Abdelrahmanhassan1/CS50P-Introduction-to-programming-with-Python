@@ -1,2 +1,4 @@
 Note 1: This is a note
-Note 2: This is the second note
+Note 2:  Cooking was Awesome Today
+Note 3:  I played for two hours at the club on friday
+Note 4:  I started learning Web Development
